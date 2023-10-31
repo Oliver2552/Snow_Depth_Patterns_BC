@@ -1,1 +1,1 @@
-# midterm_project
+# BC Snow Survey Data Midterm Project
