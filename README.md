@@ -1,4 +1,4 @@
-# BC Snow Survey Data Midterm Project
+# Exploring Snow Depth Patterns in B.C. Snow Courses
 
 ## Overview
 
